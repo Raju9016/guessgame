@@ -1,0 +1,15 @@
+Step 1 : Create Random Number 1 to 100 using Random function and assing to variable.
+
+step 2 : Get the user Input
+         a, create input text box
+         b, get the value (using get element by id) text box user input value.
+
+step 3 : create click function with addEvent listner to one button and inside  make if statement to check the conditon
+         a, Random value and user value to compare,
+         b, if both equal result is you won
+         c, if user input is < Random number result is value low.    
+         d, if user input is > Random number result is value high.
+         
+step 4 : Add another Button, and create restat the function to if user won can start new game.         
+         
+step 5 : Create One div to show the value what user enter presently for more    clearity to the user. 
